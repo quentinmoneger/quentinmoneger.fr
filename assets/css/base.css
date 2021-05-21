@@ -1,0 +1,84 @@
+body {
+  display: table;
+  width: 100%;
+  background-color: #f9fafa;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #fff;
+  height: 60px;
+}
+
+main {
+  max-width: 300px;
+  margin: auto;
+  width: 80%;
+  position: relative;
+}
+
+footer {
+  background-color: #fff;
+  display: table-row;
+  height: 40px;
+}
+
+.anton {
+  font-family: "Anton";
+}
+
+.opensans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#anchor {
+  position: fixed;
+  bottom: 40px;
+  right: 20px;
+  font-size: 1.5rem;
+}
+
+#anchor:hover {
+  color: orange;
+}
+
+@media (min-width: 576px) {
+  main {
+    max-width: 570px;
+  }
+}
+
+@media (min-width: 768px) {
+  #anchor {
+    position: fixed;
+    bottom: 50px;
+    right: 30px;
+    font-size: 1.5rem;
+  }
+  main {
+    max-width: 740px;
+  }
+}
+
+@media (min-width: 992px) {
+  #anchor {
+    position: fixed;
+    bottom: 50px;
+    right: 60px;
+    font-size: 2rem;
+  }
+  main {
+    max-width: 980px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #anchor {
+    position: fixed;
+    bottom: 50px;
+    right: 75px;
+    font-size: 3rem;
+  }
+}

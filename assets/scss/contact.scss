@@ -1,0 +1,14 @@
+@import "variables";
+
+// la carte DOIT avoir une hauteur sinon elle n'apparaît pas 
+#map{ 
+    height: 350px;
+}
+
+// Desactive les effects sur les liens reseaux sociaux
+.contact{
+    a, a:hover, a:focus, a:active {
+        text-decoration: none;
+        color: inherit;
+   }
+}

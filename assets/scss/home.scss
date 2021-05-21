@@ -1,0 +1,164 @@
+@import "variables";
+
+// Partie Link 
+.link{
+    margin-bottom: 0 !important;
+    h4{
+        font-size: 1.75rem;
+    }
+    h6{
+        font-size: 0.75rem;
+    }
+    text-align: center;
+
+    .link-icon{
+        font-size: 4rem;
+    }
+    .small{
+        font-size: 0.75rem;
+    }
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
+    a:hover, a:active {
+        text-decoration: none;
+        color: $hovercolor;
+   }
+}
+
+// Partie Download CV
+.download{
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
+     a:hover, a:active {
+        text-decoration: none;
+        color: $hovercolor;
+   }
+}
+
+// Partie Portfolio
+.portfolio{
+    .portfolio-img {
+        position: relative;
+        width: 100%;
+    }
+    .portfolio-text{
+        color:black;
+        font-size: 30px;
+        text-align: center;
+        position: absolute;
+        text-shadow: 2px 2px white;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 100%;
+    }
+}
+.portfolio:hover{
+    .portfolio-img{
+        opacity: 0.5;
+    }
+    .portfolio-text{
+        z-index: 1;
+    }
+}
+
+/* Overlay autour du portrait */
+#face{
+    width: 100%;
+    margin-bottom: 1em;
+}
+.name{
+    font-size: 1rem;
+}
+.detail{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media(max-width: 576px){
+    #face{
+        max-width: 200px;
+    }
+    #home-text4,#home-text6,#home-text2{
+        display: none;
+    }
+    #home-text1,#home-text3,#home-text5{
+        display: unset;
+    }
+}
+
+@media (min-width: 768px ){ 
+    #navbarNavAltMarkup{
+        display: flex;
+        justify-content: end;
+    }
+    .name{
+        font-size: 2rem;
+    }
+    .link{
+        h4{
+            font-size: 2rem;
+        }
+        h6{
+            font-size: 1rem;
+        }
+        .small{
+            font-size: 1rem;
+        }
+    }
+}
+
+@media (min-width: 576px )and(max-width: 768px) { 
+    #face{
+        max-width: 250px;
+    } 
+    #home-text1,#home-text3,#home-text5{
+        display: none;
+    }
+    #home-text2,#home-text6,#home-text4{
+        display: unset;
+    }
+}
+
+
+@media (min-width: 768px)  {
+    .portfolio-img{
+        height: 340px;
+    }
+    #home-text1,#home-text3,#home-text6{
+        display: none;
+    }
+    #home-text2,#home-text4,#home-text5{
+        display: unset;
+    }
+
+    .link{
+        .link-icon{
+            font-size: 8rem;
+        }
+    }
+ }
+
+@media (min-width: 992px)and(max-width: 1200px) { 
+    #home-text2,#home-text3,#home-text6{
+        display: none;
+    }
+    #home-text1,#home-text4,#home-text5{
+        display: unset;
+    }
+ }
+
+@media (min-width: 1200px) { 
+    #home-text4,#home-text2,#home-text6{
+        display: none;
+    }
+    #home-text1,#home-text3,#home-text5{
+        display: unset;
+    }
+}
+
+
