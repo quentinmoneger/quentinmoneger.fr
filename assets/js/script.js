@@ -7,7 +7,6 @@ $('#send').click(function() {
     message: $('#form').find('textarea[name=message]').val()
   },
   function(resultJson) {
-    console.log(resultJson);
     var result = JSON.parse(resultJson);
    if (result['success'] == true) {
     $('#alert').prepend(result['message']),
