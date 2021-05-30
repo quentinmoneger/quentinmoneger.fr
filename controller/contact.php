@@ -1,6 +1,6 @@
 <?php
 
-require('vendor/autoload.php');
+require('../vendor/autoload.php');
 
 use Respect\Validation\Validator as v;
 use \PHPMailer\PHPMailer\PHPMailer as PHPMailer;
@@ -28,7 +28,7 @@ if (!empty($_POST)) {
 
         try {
 
-            include('config.php');
+            include('../config.php');
             $mail = new PHPmailer;
             $mail->CharSet    = 'UTF-8';
             $mail->Encoding   = 'base64';

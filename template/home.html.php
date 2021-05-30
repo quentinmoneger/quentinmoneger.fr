@@ -69,7 +69,7 @@
             <h2 class="col-12 anton">Mes Compétences</h2>
         </div>
         <div class="row text-center pt-3">
-            <div class="col-12 col-md-4 mb-2 skill border-right">
+            <div class="col-12 col-md-4 mb-2 skill">
                 <i class="fas fa-code fa-4x mb-3 "></i>
                 <h2 class="anton">front end</h2>
                 <p class="opensans">
@@ -81,13 +81,14 @@
                     AJAX <br>
                 </p>
             </div>
-            <div class="col-12 col-md-4 mb-2 skill border-right">
+            <div class="col-12 col-md-4 mb-2 skill">
                 <i class="fas fa-cogs fa-4x mb-3"></i>
                 <h2 class="anton">back end</h2>
                 <p class="opensans">
                     SQL <br>
                     PHP <br>
                     Base de données <br>
+                    MySql <br>
                     POO <br>
                     MVC <br>
                 </p>

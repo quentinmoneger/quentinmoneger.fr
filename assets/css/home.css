@@ -65,6 +65,15 @@
   z-index: 1;
 }
 
+@media (hover: none) {
+  .portfolio .portfolio-img {
+    opacity: 0.5;
+  }
+  .portfolio .portfolio-text {
+    z-index: 1;
+  }
+}
+
 /* Overlay autour du portrait */
 #face {
   width: 100%;

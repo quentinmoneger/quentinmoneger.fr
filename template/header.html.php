@@ -37,7 +37,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav opensans" data-ride='carousel'>
+            <div class="navbar-nav ml-auto opensans" data-ride='carousel'>
                 <a id="accueil" class="nav-link border-right text-dark" href="#" data-target='#myCarousel' data-slide-to='0'>Accueil</a>
                 <a id="parcours" class="nav-link border-right text-dark" href="#" data-target='#myCarousel' data-slide-to='1'>Parcours</a>
                 <a id="contact" class="nav-link text-dark" href="#" data-target='#myCarousel' data-slide-to='2'>Contact</a>

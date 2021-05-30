@@ -57,6 +57,7 @@
         width: 100%;
     }
 }
+
 .portfolio:hover{
     .portfolio-img{
         opacity: 0.5;
@@ -65,6 +66,18 @@
         z-index: 1;
     }
 }
+
+@media (hover: none) {
+    .portfolio{
+        .portfolio-img{
+            opacity: 0.5;
+        }
+        .portfolio-text{
+            z-index: 1;
+        }
+    }
+}
+
 
 /* Overlay autour du portrait */
 #face{

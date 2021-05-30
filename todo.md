@@ -1,7 +1,7 @@
 ## Todo
 
-- contenu 
 - favicon ??
-- anchor test 768
-
+- carrousel accueil
+- slide sur mobile ??
+  
 ## BUG
