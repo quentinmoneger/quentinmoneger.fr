@@ -150,8 +150,8 @@
         <div>
             <h3 class="nav-title">AxessWeb<br>Dev Web</h3>
             <i class="nav-dot fas fa-dot-circle"></i>
+            <!-- <i id="cross" class="fas fa-grip-lines-vertical"></i> -->
             <div class="nav-date">2021</div>
-            <i id="cross" class="fas fa-grip-lines-vertical"></i>
         </div>
         <div>
             <h3 class="nav-title">Bac STI<br>GM</h3>

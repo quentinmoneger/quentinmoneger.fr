@@ -7,7 +7,6 @@
     <title>Moneger Quentin</title>
     <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,800&display=swap" rel="stylesheet">
-    <link href="//db.onlinewebfonts.com/c/2811d67246333db6aa40048e7528dc5c?family=Quadranta" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
@@ -19,7 +18,7 @@
     <link rel="stylesheet" href="assets/css/base.min.css">
 </head>
 <body>
-<nav id="top" class="navbar navbar-expand-md navbar-light">
+<nav id="top" class="navbar navbar-expand navbar-light">
         <div class="navbar-brand" data-target='#myCarousel' data-slide-to='0'>
             <svg version="1.1" height="50" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 50" style="enable-background:new 0 0 100 50;" xml:space="preserve">
                 <path d="M85.47,0.47c-4.8,0-8.97,2.31-11.6,5.91c-2.57-3.6-6.8-5.91-11.6-5.91c-7.77,0-14.11,6.25-14.22,13.79c0,0,0,22.01,0,22.01
@@ -33,15 +32,10 @@
                 c0-8.67,7.25-15.82,16.05-15.82c8.91,0,16.17,7.09,16.17,15.82C38.57,26.09,36.91,29.97,34,32.78z" />
             </svg>
         </div>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav ml-auto opensans" data-ride='carousel'>
-                <a id="accueil" class="nav-link border-right text-dark" href="#" data-target='#myCarousel' data-slide-to='0'>Accueil</a>
-                <a id="parcours" class="nav-link border-right text-dark" href="#" data-target='#myCarousel' data-slide-to='1'>Parcours</a>
-                <a id="contact" class="nav-link text-dark" href="#" data-target='#myCarousel' data-slide-to='2'>Contact</a>
-            </div>
+        <div class="navbar-nav ml-auto opensans" data-ride='carousel'>
+            <a id="accueil" class="nav-link border-right text-dark" href="#" data-target='#myCarousel' data-slide-to='0'>Accueil</a>
+            <a id="parcours" class="nav-link border-right text-dark" href="#" data-target='#myCarousel' data-slide-to='1'>Parcours</a>
+            <a id="contact" class="nav-link text-dark" href="#" data-target='#myCarousel' data-slide-to='2'>Contact</a>
         </div>
 </nav>
 <main class="mr-auto ml-auto">

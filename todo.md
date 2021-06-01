@@ -1,7 +1,8 @@
 ## Todo
 
 - favicon ??
-- carrousel accueil
-- slide sur mobile ??
   
 ## BUG
+
+- Coupure dans slick line
+- Anchor stoper fonction 

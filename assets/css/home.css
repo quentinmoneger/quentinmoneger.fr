@@ -42,6 +42,7 @@
 .portfolio .portfolio-img {
   position: relative;
   width: 100%;
+  height: 100%;
 }
 
 .portfolio .portfolio-text {
@@ -55,6 +56,10 @@
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   width: 100%;
+}
+
+.portfolio:hover {
+  cursor: pointer;
 }
 
 .portfolio:hover .portfolio-img {
@@ -137,9 +142,6 @@
 }
 
 @media (min-width: 768px) {
-  .portfolio-img {
-    height: 340px;
-  }
   #home-text1, #home-text3, #home-text6 {
     display: none;
   }

@@ -1,12 +1,14 @@
 @import "variables";
 
 /*-- Slide Line --*/
-#cross{
-    position: relative;
-    bottom: 70px;
-    left: 60px;
-    color: #e8e8e8 !important;
-}
+// .cross{
+//     position: relative;
+// }
+// #cross{
+//     position: absolute;
+//     bottom: 70px;
+//     color: #e8e8e8 !important;
+// }
 .slick-dots{ 
     display: none !important; 
 } 
@@ -29,7 +31,7 @@ a{
 }
 .line-time{
     position: relative;
-    bottom: 82px;
+    bottom: 60px;
     z-index: -1;
 }
 
@@ -114,48 +116,7 @@ a{
         margin-top: 80px !important;
     }
 }
-@media (min-width: 1200px) { 
-
-}
 
 
-
-/*-- Modal Carousel --*/
-.carousel-control-prev-icon , .carousel-control-next-icon  {  
-    width: 30px;
-    height: 48px;
-}
-.carousel-control-next:hover{
-    color: black !important;
-}
-.carousel-control-prev:hover{
-    color: black !important;
-}
-.carousel-control-next{
-    color: grey !important;
-}
-.carousel-control-prev{
-    color: grey !important;
-}
-
-
-.modal-body {
-    padding: 0;
-}
-
-.img-size{
-    max-height: $imgheight;
-    max-width: 100%;
-    background-size: cover;
-    overflow: none;
-}
-.modal-content {
-    width: 100%;
-    border:none;
-    justify-content: center;
-}
-.modal-dialog{
-    max-width: $modalmaxwith;
-}
 
 

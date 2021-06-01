@@ -11,6 +11,15 @@ body {
 nav{
     background-color: $whitePur;
     height: $navbarHeight;
+    font-size: 0.8rem;
+    @media (min-width: 350px) { 
+        font-size: 1rem;
+
+    }
+    @media (min-width: 800px) { 
+        font-size: 1.25rem;
+
+    }
 }
 main{
     max-width: 300px;
@@ -54,7 +63,7 @@ h3{
 }
 
 // MediaQueries pour la largeur des menus et la taille de l'ancre
-@media (min-width: 376px) { 
+@media (min-width: 375px) { 
     h1{
         font-size: 1.80rem;      
     }
@@ -109,3 +118,44 @@ h3{
 
 
 
+/*-- Modal Carousel --*/
+.carousel-control-prev-icon , .carousel-control-next-icon  {  
+    width: 30px;
+    height: 48px;
+}
+.carousel-control-next:hover{
+    color: black !important;
+}
+.carousel-control-prev:hover{
+    color: black !important;
+}
+.carousel-control-next{
+    color: grey !important;
+}
+.carousel-control-prev{
+    color: grey !important;
+}
+
+.modal-body {
+    padding: 0;
+}
+
+.img-size{
+    max-height: $imgheight;
+    max-width: 100%;
+    background-size: cover;
+    overflow: none;
+}
+.modal-content {
+    width: 100%;
+    border:none;
+    justify-content: center;
+}
+.modal-dialog-course{
+    max-width: $modalmaxwith;
+}
+
+.modal-dialog-portfolio{
+    width: $modalwith;
+    max-width: 100%;
+}

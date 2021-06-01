@@ -10,6 +10,19 @@ body {
 nav {
   background-color: #fff;
   height: 60px;
+  font-size: 0.8rem;
+}
+
+@media (min-width: 350px) {
+  nav {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 800px) {
+  nav {
+    font-size: 1.25rem;
+  }
 }
 
 main {
@@ -56,7 +69,7 @@ h3 {
   color: orange;
 }
 
-@media (min-width: 376px) {
+@media (min-width: 375px) {
   h1 {
     font-size: 1.80rem;
   }
@@ -105,4 +118,54 @@ h3 {
     right: 75px;
     font-size: 3rem;
   }
+}
+
+/*-- Modal Carousel --*/
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  width: 30px;
+  height: 48px;
+}
+
+.carousel-control-next:hover {
+  color: black !important;
+}
+
+.carousel-control-prev:hover {
+  color: black !important;
+}
+
+.carousel-control-next {
+  color: grey !important;
+}
+
+.carousel-control-prev {
+  color: grey !important;
+}
+
+.modal-body {
+  padding: 0;
+}
+
+.img-size {
+  max-height: calc(100vh - 180px);
+  max-width: 100%;
+  background-size: cover;
+  overflow: none;
+}
+
+.modal-content {
+  width: 100%;
+  border: none;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.modal-dialog-course {
+  max-width: calc(100vh/1.25);
+}
+
+.modal-dialog-portfolio {
+  width: calc(100vh*1.75);
+  max-width: 100%;
 }

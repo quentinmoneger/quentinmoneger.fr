@@ -11,7 +11,7 @@
             </div>
             <div class="col-12 col-sm-6 col-md-8 opensans ">
                 <p> Jeune développeur mais vieux passionné d’informatique et de technologie 💻,
-                    je sors de formation développeur web et web mobile ou j’ai plus que confirmé mon envie de faire ma
+                    je sors de formation développeur web et web mobile où j’ai plus que confirmé mon envie de faire ma
                     place dans ce domaine.
                 </p>
                 <div id="home-text5">
@@ -112,20 +112,20 @@
             <h2 class="col-12 anton">Portfolio</h2>
         </div>
         <div class="row justify-content-center">
-            <a class="col-12 col-md-6 mb-2 portfolio" type="button" data-toggle="modal" data-target="#bfmaniaModal">
-                <p class="portfolio-text anton">
+            <a class="col-12 col-md-6 mb-2 portfolio"  data-toggle="modal" data-target="#bfmaniaModal">
+                <div class="portfolio-text anton">
                     Bfmania<br>
                     Bientot en ligne<br>
                     Cliquez...
-                </p>
+                </div>
                 <img class="w-100 rounded portfolio-img" src="assets/img/carousel-home/bfmania_view.jpg" alt="BFmania">
             </a>
-            <a class="col-12 col-md-6 mb-2 portfolio" type="button" data-toggle="modal" data-target="#rollmeModal">
-                <p class="portfolio-text anton">
+            <a class="col-12 col-md-6 mb-2 portfolio"  data-toggle="modal" data-target="#rollmeModal">
+                <div class="portfolio-text anton">
                     Rollme<br>
                     Projet en cours<br>
                     Cliquez...
-                </p>
+                </div>
                 <img class="w-100 rounded portfolio-img" src="assets/img/carousel-home/rollme_view.png" alt="Rollme">
             </a>
         </div>
@@ -136,8 +136,7 @@
             <i class="fas fa-rocket fa-2x col-3 col-sm-2 col-lg-1"></i>
         </div>
         <div class="download">
-            <a href="assets/download/CV_Dev_Web_Moneger_Quentin.pdf"
-                class="row anton justify-content-center text-center my-3" download>
+            <a href="assets/download/CV_Dev_Web_Moneger_Quentin.pdf" class="row anton justify-content-center text-center my-3" download>
                 <h6 class="col-8 h2">Télécharger mon CV</h6>
                 <i class="col-8 fas fa-download fa-5x"></i>
             </a>

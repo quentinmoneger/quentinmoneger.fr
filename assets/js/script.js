@@ -21,6 +21,20 @@ $('#send').click(function() {
  });
 });
 
+// Déclenchement des scripts js a lécoute du changement de slide
+$('#myCarousel').on('slide.bs.carousel', function onSlide (ev) {
+  var id = ev.relatedTarget.id;
+  switch (id) {
+    case "carousel-course":
+      slickCourse();
+      break;
+    case "carousel-contact":
+      map();
+      break;
+    default:
+  }
+})
+
 // Fonction pour remettre dans l'ordre les infos sensibles
  $( ".reverse" ).each(function( index ) {
   str = $( this ).text().split("").reverse().join("")
