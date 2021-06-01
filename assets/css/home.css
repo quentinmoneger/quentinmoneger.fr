@@ -24,7 +24,7 @@
   color: inherit;
 }
 
-.link a:hover, .link a:active {
+.link a:hover {
   text-decoration: none;
   color: orange;
 }
@@ -34,7 +34,7 @@
   color: inherit;
 }
 
-.download a:hover, .download a:active {
+.download a:hover {
   text-decoration: none;
   color: orange;
 }
@@ -42,7 +42,6 @@
 .portfolio .portfolio-img {
   position: relative;
   width: 100%;
-  height: 100%;
 }
 
 .portfolio .portfolio-text {
@@ -76,6 +75,9 @@
   }
   .portfolio .portfolio-text {
     z-index: 1;
+  }
+  a:focus {
+    color: #212529;
   }
 }
 

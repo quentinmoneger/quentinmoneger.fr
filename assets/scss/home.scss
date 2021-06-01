@@ -21,10 +21,11 @@
         text-decoration: none;
         color: inherit;
     }
-    a:hover, a:active {
+    a:hover{
         text-decoration: none;
         color: $hovercolor;
-   }
+    }
+
 }
 
 // Partie Download CV
@@ -33,17 +34,16 @@
         text-decoration: none;
         color: inherit;
     }
-     a:hover, a:active {
+     a:hover {
         text-decoration: none;
         color: $hovercolor;
    }
 }
 // Partie Portfolio
 .portfolio{ 
-    .portfolio-img {
-        position: relative;
+    .portfolio-img {     
+        position: relative;   
         width: 100%;
-        height: 100%;
     }
     .portfolio-text{
         color:black;
@@ -77,6 +77,11 @@
             z-index: 1;
         }
     }
+
+    a:focus{
+        color: #212529;
+    }
+    
 }
 
 

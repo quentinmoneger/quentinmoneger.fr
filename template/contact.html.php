@@ -1,6 +1,6 @@
 <section class="mr-auto ml-auto">
     <div class="container">
-        <div class="row pb-3 text-center">
+        <div class="row mt-3 pb-3 text-center">
             <h1 class="col-12 anton">CONTACTEZ-moi</h1>
         </div>
         <div id="alert">

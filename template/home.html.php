@@ -1,7 +1,7 @@
 <section class="mr-auto ml-auto">
     <div class="container">
         <!-- Partie Présentation -->
-        <div class="row text-center">
+        <div class="row mt-3 text-center">
             <h1 class="col-12 anton">Bienvenue sur mon site !</h1>
         </div>
         <div class="row mt-3 ">
@@ -112,7 +112,7 @@
             <h2 class="col-12 anton">Portfolio</h2>
         </div>
         <div class="row justify-content-center">
-            <a class="col-12 col-md-6 mb-2 portfolio"  data-toggle="modal" data-target="#bfmaniaModal">
+            <a class="col-12 col-md-6 mb-2 portfolio" data-toggle="modal" data-target="#bfmaniaModal">
                 <div class="portfolio-text anton">
                     Bfmania<br>
                     Bientot en ligne<br>
@@ -120,7 +120,7 @@
                 </div>
                 <img class="w-100 rounded portfolio-img" src="assets/img/carousel-home/bfmania_view.jpg" alt="BFmania">
             </a>
-            <a class="col-12 col-md-6 mb-2 portfolio"  data-toggle="modal" data-target="#rollmeModal">
+            <a class="col-12 col-md-6 mb-2 portfolio" data-toggle="modal" data-target="#rollmeModal">
                 <div class="portfolio-text anton">
                     Rollme<br>
                     Projet en cours<br>
@@ -135,10 +135,10 @@
             <i class="fas fa-rocket fa-2x col-3 col-sm-2 col-lg-1"></i>
             <i class="fas fa-rocket fa-2x col-3 col-sm-2 col-lg-1"></i>
         </div>
-        <div class="download">
-            <a href="assets/download/CV_Dev_Web_Moneger_Quentin.pdf" class="row anton justify-content-center text-center my-3" download>
-                <h6 class="col-8 h2">Télécharger mon CV</h6>
-                <i class="col-8 fas fa-download fa-5x"></i>
+        <div class="download row justify-content-center text-center">
+            <a href="assets/download/CV_Dev_Web_Moneger_Quentin.pdf" class="col-8 col-sm-6 col-md-4 anton  my-3" download>
+                <h6 class="h2">Télécharger mon CV</h6>
+                <i class="fas fa-download fa-5x"></i>
             </a>
         </div>
         <div class="row mt-5 mb-5 justify-content-center text-center">

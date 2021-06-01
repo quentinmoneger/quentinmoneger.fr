@@ -1,10 +1,10 @@
-<section class="mt-3 course">
-    <div class="row pb-5 text-center">
+<section class="course">
+    <div class="row mt-3 pb-4 text-center">
         <h1 class="col-12 anton">MON Parcours</h1>
     </div>
     <!-- Partie Supérieur de la Slider -->
     <div class=" container p-0 slider-for ">
-        <div class="row history ">
+        <div class="row history mb-3">
             <div class="col-md-5 history-image p-0">
                 <img class="m-auto" src="assets/img/course/pictos/laptop.png" alt="laptop">
             </div>
@@ -13,7 +13,6 @@
                 <p class="history-info-date">2021</p>
                 <p class="history-info-text mb-0 p-0">Stage Développeur web et web mobile</p>
                 <a data-toggle="collapse" data-target="#webforce3"> Voir plus ...</a>
-
             </div>
         </div>
         <div class="row history justify-content-center">

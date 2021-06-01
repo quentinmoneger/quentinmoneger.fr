@@ -72,10 +72,8 @@ var dmQuery = window.matchMedia("(prefers-color-scheme: dark)");
 var lmQuery = window.matchMedia("(prefers-color-scheme: light)");
 
 if(dmQuery.matches){
-  console.log(dmQuery.matches, 'dark');
   applyIcon("dark");
 }
 if(lmQuery.matches){
-  console.log(lmQuery.matches , 'light');
   applyIcon("light");
 }
