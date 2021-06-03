@@ -5,5 +5,4 @@
 ## BUG
 
 - Coupure dans slick line
-- Anchor stoper fonction 
 - focus sur tablette 

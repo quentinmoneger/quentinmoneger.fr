@@ -1,6 +1,6 @@
 </main>
 <footer class="container">  
-    <a id="anchor" class="" href="#top" onclick="scrollToTop();return false"><i class="fas fa-angle-double-up"></i></a>
+    <a id="anchor" href="#top" class="smooth-scroll"><i class="fas fa-angle-double-up"></i></a>
     <div class="row justify-content-between ml-0 mr-0 mt-2">
         <div class="pl-3">
             <p>© 2021 par Moneger Quentin</p>
