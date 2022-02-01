@@ -1,6 +1,4 @@
 ## Todo
-
-- favicon ??
   
 ## BUG
 
@@ -10,7 +8,6 @@
 
 ## Contents
 
-- Slick line ajout CDA et Axessweb ralonger 
 - Photo modification
 - Portfolio :
     - Capture video
