@@ -6,3 +6,15 @@
 
 - Coupure dans slick line
 - focus sur tablette 
+
+
+## Contents
+
+- Slick line ajout CDA et Axessweb ralonger 
+- Presentation modif 
+- Photo modification
+- Mes compétences ajout des nouvelles technos 
+- Portfolio :
+    - Capture video
+    - Déploiement 
+- Mettre jour cv
