@@ -161,7 +161,7 @@
                 <i class="fas fa-volume-up link-icon"></i>
                 <h6 class="mb-0">me joindre par </h6>
                 <h4 class="mb-0">TELEPHONE</h4>
-                <p class=" reverse small">98.46.81.99.60</p>
+                <p class="reverse small">98.46.81.99.60</p>
             </div>
             <div class="col-5 col-md-3  p-0">
                 <i class="far fa-paper-plane link-icon"></i>
