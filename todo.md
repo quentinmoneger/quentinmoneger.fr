@@ -11,7 +11,6 @@
 ## Contents
 
 - Slick line ajout CDA et Axessweb ralonger 
-- Presentation modif (ajout de gras)
 - Photo modification
 - Mes compétences ajout des nouvelles technos 
 - Portfolio :
