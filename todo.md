@@ -12,7 +12,6 @@
 
 - Slick line ajout CDA et Axessweb ralonger 
 - Photo modification
-- Mes compétences ajout des nouvelles technos 
 - Portfolio :
     - Capture video
     - Déploiement 

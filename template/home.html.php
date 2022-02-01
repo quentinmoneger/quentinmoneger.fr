@@ -71,10 +71,11 @@
                 <i class="fas fa-code fa-4x mb-3 "></i>
                 <h2 class="anton">front end</h2>
                 <p class="opensans">
-                    Html <br>
-                    CSS <br>
+                    Html 5<br>
+                    CSS 3<br>
                     Sass <br>
                     Javascript <br>
+                    TypeScript <br>
                     Jquery <br>
                     AJAX <br>
                 </p>
@@ -83,10 +84,11 @@
                 <i class="fas fa-cogs fa-4x mb-3"></i>
                 <h2 class="anton">back end</h2>
                 <p class="opensans">
-                    SQL <br>
+                    Java <br>
+                    JEE <br>
                     PHP <br>
-                    Base de données <br>
-                    MySql <br>
+                    SQL <br>
+                    MySql / PgAdmin / MongoDB <br>
                     POO <br>
                     MVC <br>
                 </p>
@@ -95,13 +97,13 @@
                 <i class="fas fa-tools fa-4x mb-3"></i>
                 <h2 class="anton">tools</h2>
                 <p class="opensans">
-                    Bootstrap <br>
-                    Wordpress <br>
-                    Symfony <br>
-                    nodeJs <br>
-                    Xampp <br>
-                    VScode <br>
                     Angular <br>
+                    Spring <br>
+                    Hibernate <br>
+                    Symfony <br>
+                    Bootstrap <br>
+                    Github / Gitlab <br>
+                    VsCode / Eclipse <br>
                 </p>
             </div>
         </div>
