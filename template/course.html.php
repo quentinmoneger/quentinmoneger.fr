@@ -4,18 +4,18 @@
     </div>
     <!-- Partie Supérieur de la Slider -->
     <div class=" container p-0 slider-for ">
-        <div class="row history mb-3">
+        <div class="row history">
             <div class="col-md-5 history-image p-0">
                 <img class="m-auto" src="assets/img/course/pictos/laptop.png" alt="laptop">
             </div>
             <div class="col-md-6 history-info">
-                <h3 class="history-info-title">AxessWeb - Toulouse</h3>
-                <p class="history-info-date">2021</p>
-                <p class="history-info-text mb-0 p-0">Stage Développeur web et web mobile</p>
-                <a data-toggle="collapse" data-target="#webforce3"> Voir plus ...</a>
+                <h3 class="history-info-title">AFPA - Toulouse</h3>
+                <p class="history-info-date">2022</p>
+                <p class="history-info-text mb-0 p-0">Formation Concepteur Développeur d'Applications</p>
+                <a data-toggle="collapse" data-target="#cda"> Voir plus ...</a>
             </div>
         </div>
-        <div class="row history justify-content-center">
+        <div class="row history ">
             <div class="col-md-5 history-image p-0">
                 <img class="m-auto" src="assets/img/course/pictos/graduation-cap-solid.png" alt="graduation">
             </div>
@@ -25,7 +25,7 @@
                 <p class="history-info-text mb-0 p-0"> Baccalauréat Sciences et Technologies Industrielles Génie Mécanique Option productique </p>
             </div>
         </div>
-        <div class="row history justify-content-center">
+        <div class="row history">
             <div class="col-md-5 history-image p-0">
                 <img class="m-auto" src="assets/img/course/pictos/graduation-cap-solid.png" alt="graduation">
             </div>
@@ -90,6 +90,17 @@
                 <a data-toggle="collapse" data-target="#webforce3"> Voir plus ...</a>
             </div>
         </div>
+        <div class="row history">
+            <div class="col-md-5 history-image p-0">
+                <img class="m-auto" src="assets/img/course/pictos/laptop.png" alt="laptop">
+            </div>
+            <div class="col-md-6 history-info">
+                <h3 class="history-info-title">AxessWeb - Toulouse</h3>
+                <p class="history-info-date">2021</p>
+                <p class="history-info-text mb-0 p-0">Développeur web et applications</p>
+                <a data-toggle="collapse" data-target="#axessweb"> Voir plus ...</a>
+            </div>
+        </div>
     </div>
     <!-- Partie Carousel de la Slider -->
     <div class="collapse mt-3 row justify-content-center opensans" id="contigiani">
@@ -144,13 +155,44 @@
             </p>
         </div>
     </div>
+    <div class="collapse mt-3 row justify-content-center opensans" id="axessweb">
+        <div class="card card-body col-12 col-md-8">
+            <p> - Réalisation d'une application de jeux de cartes sur <span class="font-weight-bold">VueJs</span><br>
+                - Développement et intégration d’un site de jeux en ligne<br>
+                sous framework W (<span class="font-weight-bold">PHP/MVC</span>)<br>
+                - Développement module de chat sous <span class="font-weight-bold">NodeJs</span></p>
+        </div>
+    </div>
+    <div class="collapse mt-3 row justify-content-center opensans" id="cda">
+        <div class="card card-body col-12 col-md-8">
+            <p>Formation Concepteur développeur d’applications Titre professionnel RNCP Bac+4</p>
+            <p>Front-End:</p>
+            <p>
+                ▪ HTML 5 / CSS 3<br>
+                ▪ Bootstrap / RWD<br>
+                ▪ JavaScript / TypeScript / Jquery<br>
+                ▪ Angular<br>
+            </p>
+            <p>Back-End:</p>
+            <p>
+                ● Java (Eclipse), JEE<br>
+                ● Spring, Hibernate<br>
+                ● Conception et gestion de bases de données SQL et noSQL<br>
+                ● PostgresSQL / PgAdmin / MongoDB<br>
+            </p>
+            <p>
+                - Gestion de projet : Agile, Cycle en V, Planification Gantt<br>
+                - Methode Agile (SCRUM)<br>
+            </p>
+        </div>
+    </div>
     <!-- Partie Time Line de la Slider -->
     <div class="slider-nav mt-2 text-center">
         <div>
-            <h3 class="nav-title">AxessWeb<br>Dev Web</h3>
+            <h3 class="nav-title">AFPA<br>CDA</h3>
             <i class="nav-dot fas fa-dot-circle"></i>
             <!-- <i id="cross" class="fas fa-grip-lines-vertical"></i> -->
-            <div class="nav-date">2021</div>
+            <div class="nav-date text-danger">Actuellement</div>
         </div>
         <div>
             <h3 class="nav-title">Bac STI<br>GM</h3>
@@ -183,8 +225,14 @@
             <div class="nav-date">2020</div>
         </div>
         <div>
-            <h3 class="nav-title">DWWM<br>Continue</h3>
+            <h3 class="nav-title">WebForce3<br>DWWM</h3>
             <i class="nav-dot fas fa-dot-circle"></i>
+            <div class="nav-date">2021</div>
+        </div>
+        <div>
+            <h3 class="nav-title">AxessWeb<br>Dev Web</h3>
+            <i class="nav-dot fas fa-dot-circle"></i>
+            <!-- <i id="cross" class="fas fa-grip-lines-vertical"></i> -->
             <div class="nav-date">2021</div>
         </div>
     </div>

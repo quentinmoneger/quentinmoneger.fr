@@ -9,10 +9,10 @@
                 <h2 class="name anton mr-auto ml-auto mb-3">Quentin Moneger</h2>
                 <img id="face" class="rounded" src="assets/img/home/face.jpg" alt="portrait">
             </div>
-            <div class="col-12 col-sm-6 col-md-8 opensans ">
-                <p> Jeune développeur mais vieux passionné d’informatique et de technologie 💻,
-                    je sors de formation développeur web et web mobile où j’ai plus que confirmé mon envie de faire ma
-                    place dans ce domaine.
+            <div class="col-12 col-sm-6 col-md-8 opensans text-justify ">
+                <p> 
+                    Jeune développeur mais vieux passionné d’informatique et de technologie 💻, je suis acutellement une <span class="font-weight-bold" >formation de Concepteur Developpeur 
+                    d'Applications </span>après une formation développeur web et web mobile ou j’ai plus que confirmé mon envie de faire ma place dans ce domaine.
                 </p>
                 <div id="home-text5">
                     <p>
@@ -22,10 +22,8 @@
                 </div>
                 <div id="home-text1">
                     <p>
-                        Actuellement disponible pour un post de développeur web, j’étanche ma soif de développements sur
-                        des
-                        projets personnels et
-                        espère pouvoir vous en montrer plus rapidement 😉
+                        Actuellement a la <span class="font-weight-bold" >recherche d'un stage de 3 mois (non rémunérée)</span> du 16 mai au 12 aout , 
+                        j’étanche ma soif de développements sur des projets personnels et espère pouvoir vous en montrer plus rapidement 😉
                     </p>
                 </div>
                 <div id="home-text3">
@@ -48,9 +46,8 @@
             </div>
             <div id="home-text2" class="col-12 opensans p-0">
                 <p>
-                    Actuellement disponible pour un post de développeur web, j’étanche ma soif de développements sur des
-                    projets personnels et
-                    espère pouvoir vous en montrer plus rapidement 😉
+                    Actuellement a la <span class="font-weight-bold" >recherche d'un stage de 3 mois (non rémunérée)</span> du 16 mai au 12 aout , 
+                    j’étanche ma soif de développements sur des projets personnels et espère pouvoir vous en montrer plus rapidement 😉
                 </p>
             </div>
             <div id="home-text4" class="col-12 opensans p-0">
@@ -73,10 +70,11 @@
                 <i class="fas fa-code fa-4x mb-3 "></i>
                 <h2 class="anton">front end</h2>
                 <p class="opensans">
-                    Html <br>
-                    CSS <br>
+                    Html 5<br>
+                    CSS 3<br>
                     Sass <br>
                     Javascript <br>
+                    TypeScript <br>
                     Jquery <br>
                     AJAX <br>
                 </p>
@@ -85,10 +83,11 @@
                 <i class="fas fa-cogs fa-4x mb-3"></i>
                 <h2 class="anton">back end</h2>
                 <p class="opensans">
-                    SQL <br>
+                    Java <br>
+                    JEE <br>
                     PHP <br>
-                    Base de données <br>
-                    MySql <br>
+                    SQL <br>
+                    MySql / PgAdmin / MongoDB <br>
                     POO <br>
                     MVC <br>
                 </p>
@@ -97,13 +96,13 @@
                 <i class="fas fa-tools fa-4x mb-3"></i>
                 <h2 class="anton">tools</h2>
                 <p class="opensans">
-                    Bootstrap <br>
-                    Wordpress <br>
-                    Symfony <br>
-                    nodeJs <br>
-                    Xampp <br>
-                    VScode <br>
                     Angular <br>
+                    Spring <br>
+                    Hibernate <br>
+                    Symfony <br>
+                    Bootstrap <br>
+                    Github / Gitlab <br>
+                    VsCode / Eclipse <br>
                 </p>
             </div>
         </div>
@@ -162,7 +161,7 @@
                 <i class="fas fa-volume-up link-icon"></i>
                 <h6 class="mb-0">me joindre par </h6>
                 <h4 class="mb-0">TELEPHONE</h4>
-                <p class=" reverse small">98.46.81.99.60</p>
+                <p class="reverse small">98.46.81.99.60</p>
             </div>
             <div class="col-5 col-md-3  p-0">
                 <i class="far fa-paper-plane link-icon"></i>
