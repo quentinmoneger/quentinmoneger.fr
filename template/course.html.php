@@ -50,9 +50,9 @@
                 <img class="m-auto" src="assets/img/course/pictos/chantier.png" alt="chantier">
             </div>
             <div class="col-md-6 history-info mb-4" >
-                    <h3 class="history-info-title">Interim - Toulouse</h3>
-                    <p class="history-info-date">2012-2013</p>
-                    <p class="history-info-text mb-0 p-0">Poseur Menuisierie Aluminium</p>
+                <h3 class="history-info-title">Interim - Toulouse</h3>
+                <p class="history-info-date">2012-2013</p>
+                <p class="history-info-text mb-0 p-0">Poseur Menuisierie Aluminium</p>
             </div>
         </div>
         <div class="row history ">
@@ -125,22 +125,22 @@
             <p>Formation Développeur web et web mobile Titre professionnel RNCP BAC+2</p>
             <p>Front-End:</p>
             <p>
-            ▪ HTML 5 / CSS 3 <br>
-            ▪ Bootstrap / RWD <br>
-            ▪ JavaScript / Jquery <br>
-            ▪ Base de données / SQL <br>
-            ▪ CMS Wordpress <br>
-            ▪ E-Commerce <br>
-            ▪ Approche de la sécurité <br>
-            ▪ UX/UI Design <br>
+                ▪ HTML 5 / CSS 3 <br>
+                ▪ Bootstrap / RWD <br>
+                ▪ JavaScript / Jquery <br>
+                ▪ Base de données / SQL <br>
+                ▪ CMS Wordpress <br>
+                ▪ E-Commerce <br>
+                ▪ Approche de la sécurité <br>
+                ▪ UX/UI Design <br>
             </p>
             <p>Back-End:</p>
             <p>
-            ● PHP <br>
-            ● Base de données <br>
-            ● POO / MVC / Framework Symfony <br>
-            ● POO (Programmation Orientée Objet) <br>
-            ● Maintenance et développement suivant le cahier des charges d’un client <br>
+                ● PHP <br>
+                ● Base de données <br>
+                ● POO / MVC / Framework Symfony <br>
+                ● POO (Programmation Orientée Objet) <br>
+                ● Maintenance et développement suivant le cahier des charges d’un client <br>
             </p>
         </div>
     </div>
