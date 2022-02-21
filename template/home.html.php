@@ -74,7 +74,7 @@
                     CSS 3<br>
                     Sass <br>
                     Javascript <br>
-                    TypeScript <br>
+                    <span class="font-weight-bold">TypeScript</span> <br>
                     Jquery <br>
                     AJAX <br>
                 </p>
@@ -83,7 +83,7 @@
                 <i class="fas fa-cogs fa-4x mb-3"></i>
                 <h2 class="anton">back end</h2>
                 <p class="opensans">
-                    Java <br>
+                    <span class="font-weight-bold">Java</span><br>
                     JEE <br>
                     PHP <br>
                     SQL <br>
@@ -96,7 +96,7 @@
                 <i class="fas fa-tools fa-4x mb-3"></i>
                 <h2 class="anton">tools</h2>
                 <p class="opensans">
-                    Angular <br>
+                    <span class="font-weight-bold">Angular</span> <br>
                     Spring <br>
                     Hibernate <br>
                     Symfony <br>
@@ -114,18 +114,20 @@
             <a class="col-12 col-md-6 mb-2 portfolio" data-toggle="modal" data-target="#bfmaniaModal">
                 <div class="portfolio-text anton">
                     Bfmania<br>
+                    PHP - MVC <br>
                     Bientot en ligne<br>
                     Cliquez...
                 </div>
                 <img class="w-100 rounded portfolio-img" src="assets/img/carousel-home/bfmania_view.jpg" alt="BFmania">
             </a>
-            <a class="col-12 col-md-6 mb-2 portfolio" data-toggle="modal" data-target="#rollmeModal">
+            <a class="col-12 col-md-6 mb-2 portfolio" data-toggle="modal" data-target="#card-gameModal">
                 <div class="portfolio-text anton">
-                    Rollme<br>
-                    Projet en cours<br>
+                    Bfmania Card-Game<br>
+                    Vue.js <br>
+                    Demo bientot en ligne<br>
                     Cliquez...
                 </div>
-                <img class="w-100 rounded portfolio-img" src="assets/img/carousel-home/rollme_view.png" alt="Rollme">
+                <img class="w-100 rounded portfolio-img" src="assets/img/carousel-home/cards_view.jpg" alt="cards_game">
             </a>
         </div>
         <!-- Partie Download CV -->
@@ -135,7 +137,7 @@
             <i class="fas fa-rocket fa-2x col-3 col-sm-2 col-lg-1"></i>
         </div>
         <div class="download row justify-content-center text-center">
-            <a href="assets/download/CV_Dev_Web_Moneger_Quentin.pdf" class="col-8 col-sm-6 col-md-4 anton  my-3" download>
+            <a href="assets/download/CV_Dev_Moneger_Quentin.pdf" class="col-8 col-sm-6 col-md-4 anton  my-3" download>
                 <h6 class="h2">Télécharger mon CV</h6>
                 <i class="fas fa-download fa-5x"></i>
             </a>
@@ -147,7 +149,7 @@
         </div>
         <!-- Partie Info -->
         <div class="link row text-center anton justify-content-center">
-            <a class="col-5 col-md-3 p-0" href="https://www.linkedin.com/in/moneger-quentin-4004691a1/" target="_blank">
+            <a class="col-5 col-md-3 p-0" href="https://www.linkedin.com/in/quentin-moneger-4004691a1/" target="_blank">
                 <i class="fab fa-linkedin link-icon"></i>
                 <h6 class="mb-0">me suivre sur</h6>
                 <h4 class="mb-0">LINKEDIN</h4>

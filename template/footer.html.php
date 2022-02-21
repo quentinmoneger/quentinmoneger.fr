@@ -7,7 +7,7 @@
         </div>
         <div class="pr-3">
             <a href="https://github.com/quentinmoneger/" target="_blank"><i class="fab fa-github fa-2x"></i></a>
-            <a href="https://www.linkedin.com/in/moneger-quentin-4004691a1/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>          
+            <a href="https://www.linkedin.com/in/quentin-moneger-4004691a1/" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a>          
         </div>
     </div>
 </footer>

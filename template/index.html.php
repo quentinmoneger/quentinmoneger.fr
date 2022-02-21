@@ -269,77 +269,96 @@
         </div>
     </div>
 </div>
-<div class="modal fade" id="rollmeModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+<div class="modal fade" id="card-gameModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
     <div class="modal-dialog modal-dialog-portfolio">
         <div class="modal-content">
             <div class="modal-body">
                 <!-- carousel -->
-                <div id='carouselrollme' class='carousel slide' data-interval="false">
+                <div id='carouselcard-game' class='carousel slide' data-interval="false">
                     <div class='carousel-inner'>
                         <div class='carousel-item active'>
-                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/rollme/1.jpg' alt='Rollme slide 1' />
+                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/card-game/1.jpg' alt='card-game slide 1' />
                             <div class="row text-center">
-                                <p class="col-12 m-0">Création d'un site de jeu de rôle en ligne!</p>
-                                <a  href="#" class="detail col-12 "data-toggle="collapse" data-target="#rollme1">Plus de détails ...</a>
+                                <p class="col-12 m-0">Création d'un site de carte en ligne!</p>
+                                <!-- <a  href="#" class="detail col-12 "data-toggle="collapse" data-target="#card-game1">Plus de détails ...</a> -->
                             </div>
-                            <div class="collapse mt-3 row justify-content-center opensans" id="rollme1">
+                            <div class="collapse mt-3 row justify-content-center opensans" id="card-game1">
                                 <div class="card card-body text-center">
-                                <p>Utilisation du Framework Symfony.<br>
-                                    Réalisation d'un salon avec un chat<br>
-                                    Utilisation de l'API Rolz pour les lancer de dés.
                                 </div>
                             </div>
                         </div>
                         <div class='carousel-item'>
-                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/rollme/2.jpg' alt='Rollme slide 2' />
+                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/card-game/2.jpg' alt='card-game slide 2' />
                             <!-- <div class="row">
-                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#rollme2">Plus de détails ...</a>
+                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#card-game2">Plus de détails ...</a>
                             </div>
-                            <div class="collapse mt-3 row justify-content-center opensans" id="rollme2">
+                            <div class="collapse mt-3 row justify-content-center opensans" id="card-game2">
                                 <div class="card card-body ">
-                                    <p>Texte rollme</p>
+                                    <p>Texte card-game</p>
                                 </div>
                             </div> -->
                         </div>
                         <div class='carousel-item'>
-                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/rollme/3.jpg' alt='Rollme slide 3' />
+                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/card-game/3.jpg' alt='card-game slide 3' />
                             <!-- <div class="row">
-                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#rollme3">Plus de détails ...</a>
+                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#card-game3">Plus de détails ...</a>
                             </div>
-                            <div class="collapse mt-3 row justify-content-center opensans" id="rollme3">
+                            <div class="collapse mt-3 row justify-content-center opensans" id="card-game3">
                                 <div class="card card-body ">
-                                    <p>Texte rollme</p>
+                                    <p>Texte card-game</p>
                                 </div>
                             </div> -->
                         </div>
                         <div class='carousel-item'>
-                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/rollme/4.jpg' alt='Rollme slide 4' />
+                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/card-game/4.jpg' alt='card-game slide 4' />
                             <!-- <div class="row">
-                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#rollme4">Plus de détails ...</a>
+                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#card-game4">Plus de détails ...</a>
                             </div>
-                            <div class="collapse mt-3 row justify-content-center opensans" id="rollme4">
+                            <div class="collapse mt-3 row justify-content-center opensans" id="card-game4">
                                 <div class="card card-body ">
-                                    <p>Texte rollme</p>
+                                    <p>Texte card-game</p>
                                 </div>
                             </div> -->
                         </div>
                         <div class='carousel-item'>
-                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/rollme/5.jpg' alt='Rollme slide 5' />
+                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/card-game/5.jpg' alt='card-game slide 5' />
                             <!-- <div class="row">
-                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#rollme5">Plus de détails ...</a>
+                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#card-game5">Plus de détails ...</a>
                             </div>
-                            <div class="collapse mt-3 row justify-content-center opensans" id="rollme5">
+                            <div class="collapse mt-3 row justify-content-center opensans" id="card-game5">
                                 <div class="card card-body ">
-                                    <p>Texte rollme</p>
+                                    <p>Texte card-game</p>
+                                </div>
+                            </div> -->
+                        </div>
+                        <div class='carousel-item'>
+                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/card-game/6.jpg' alt='card-game slide 6' />
+                            <!-- <div class="row">
+                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#card-game5">Plus de détails ...</a>
+                            </div>
+                            <div class="collapse mt-3 row justify-content-center opensans" id="card-game5">
+                                <div class="card card-body ">
+                                    <p>Texte card-game</p>
+                                </div>
+                            </div> -->
+                        </div>
+                        <div class='carousel-item'>
+                            <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/card-game/7.jpg' alt='card-game slide 7' />
+                            <!-- <div class="row">
+                                <a href="#" class="detail col-12 text-center" data-toggle="collapse" data-target="#card-game5">Plus de détails ...</a>
+                            </div>
+                            <div class="collapse mt-3 row justify-content-center opensans" id="card-game5">
+                                <div class="card card-body ">
+                                    <p>Texte card-game</p>
                                 </div>
                             </div> -->
                         </div>
                     </div>
-                    <a class='carousel-control-prev' href='#carouselrollme' role='button' data-slide='prev'>
+                    <a class='carousel-control-prev' href='#carouselcard-game' role='button' data-slide='prev'>
                         <i class="fas fa-chevron-left"></i>
                         
                     </a>
-                    <a class='carousel-control-next' href='#carouselrollme' role='button' data-slide='next'>
+                    <a class='carousel-control-next' href='#carouselcard-game' role='button' data-slide='next'>
                         <i class="fas fa-chevron-right"></i>
                         
                     </a>
