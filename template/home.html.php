@@ -12,7 +12,7 @@
             <div class="col-12 col-sm-6 col-md-8 opensans text-justify ">
                 <p> 
                     Jeune développeur mais vieux passionné d’informatique et de technologie 💻, je suis acutellement une <span class="font-weight-bold" >formation de Concepteur Developpeur 
-                    d'Applications </span>après une formation développeur web et web mobile ou j’ai plus que confirmé mon envie de faire ma place dans ce domaine.
+                    d'Applications </span>après une formation Développeur Web et Web Mobile ou j’ai plus que confirmé mon envie de faire ma place dans ce domaine.
                 </p>
                 <div id="home-text5">
                     <p>
@@ -22,8 +22,8 @@
                 </div>
                 <div id="home-text1">
                     <p>
-                        Actuellement a la <span class="font-weight-bold" >recherche d'un stage de 3 mois (non rémunérée)</span> du 16 mai au 12 aout , 
-                        j’étanche ma soif de développements sur des projets personnels et espère pouvoir vous en montrer plus rapidement 😉
+                        Actuellement à la <span class="font-weight-bold" >recherche d'un stage de 3 mois (non rémunéré)</span> du 16 mai au 12 août , 
+                        j’étanche ma soif de développements sur des projets personnels et espère pouvoir vous en montrer plus rapidement. 😉
                     </p>
                 </div>
                 <div id="home-text3">
@@ -46,8 +46,8 @@
             </div>
             <div id="home-text2" class="col-12 opensans p-0">
                 <p>
-                    Actuellement a la <span class="font-weight-bold" >recherche d'un stage de 3 mois (non rémunérée)</span> du 16 mai au 12 aout , 
-                    j’étanche ma soif de développements sur des projets personnels et espère pouvoir vous en montrer plus rapidement 😉
+                    Actuellement à la <span class="font-weight-bold" >recherche d'un stage de 3 mois (non rémunérée)</span> du 16 mai au 12 août , 
+                    j’étanche ma soif de développements sur des projets personnels et espère pouvoir vous en montrer plus rapidement. 😉
                 </p>
             </div>
             <div id="home-text4" class="col-12 opensans p-0">
@@ -115,7 +115,7 @@
                 <div class="portfolio-text anton">
                     Bfmania<br>
                     PHP - MVC <br>
-                    Bientot en ligne<br>
+                    Bientôt en ligne<br>
                     Cliquez...
                 </div>
                 <img class="w-100 rounded portfolio-img" src="assets/img/carousel-home/bfmania_view.jpg" alt="BFmania">
@@ -124,7 +124,7 @@
                 <div class="portfolio-text anton">
                     Bfmania Card-Game<br>
                     Vue.js <br>
-                    Demo bientot en ligne<br>
+                    Demo bientôt en ligne<br>
                     Cliquez...
                 </div>
                 <img class="w-100 rounded portfolio-img" src="assets/img/carousel-home/cards_view.jpg" alt="cards_game">

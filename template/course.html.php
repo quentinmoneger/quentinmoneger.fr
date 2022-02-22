@@ -32,7 +32,7 @@
             <div class="col-md-6 history-info">
                 <h3 class="history-info-title">Lycée Couffignal - Strasbourg</h3>
                 <p class="history-info-date">2009-2010</p>
-                <p class="history-info-text mb-0 p-0"> Brevet de Technicien Supérieur Conception des produits industriels</p>
+                <p class="history-info-text mb-0 p-0"> Brevet de Technicien Supérieur Conception des Produits Industriels</p>
             </div>
         </div>
         <div class="row  history">
@@ -86,7 +86,7 @@
             <div class="col-md-6 history-info">
                 <h3 class="history-info-title">WebForce3 - Toulouse</h3>
                 <p class="history-info-date">2020-2021</p>
-                <p class="history-info-text mb-0 p-0">Formation Développeur web et web mobile</p>
+                <p class="history-info-text mb-0 p-0">Formation Développeur Web et Web mobile</p>
                 <a data-toggle="collapse" data-target="#webforce3"> Voir plus ...</a>
             </div>
         </div>
@@ -97,7 +97,7 @@
             <div class="col-md-6 history-info">
                 <h3 class="history-info-title">AxessWeb - Toulouse</h3>
                 <p class="history-info-date">2021</p>
-                <p class="history-info-text mb-0 p-0">Développeur web et applications</p>
+                <p class="history-info-text mb-0 p-0">Développeur Web et d'Applications</p>
                 <a data-toggle="collapse" data-target="#axessweb"> Voir plus ...</a>
             </div>
         </div>
@@ -105,7 +105,7 @@
     <!-- Partie Carousel de la Slider -->
     <div class="collapse mt-3 row justify-content-center opensans" id="contigiani">
         <div class="card card-body col-12 col-md-8">
-            <p>Poste de Serrurier Metallier Soudeur chez ETS Contigiani</p>
+            <p>Poste de Serrurier Métallier Soudeur chez ETS Contigiani</p>
             Conception (plan, prise de mesure)<br>
             Réalisation et pose d’escalier, verrière et structure métallique <br>
             Automatisation domotique <br>
@@ -133,7 +133,7 @@
     </div>
     <div class="collapse mt-3 row justify-content-center opensans" id="webforce3">
         <div class="card card-body col-12 col-md-8">
-            <p>Formation Développeur web et web mobile Titre professionnel RNCP BAC+2</p>
+            <p>Formation Développeur web et Web Mobile Titre professionnel RNCP BAC+2</p>
             <p>Front-End:</p>
             <p>
                 ▪ HTML 5 / CSS 3 <br>
@@ -150,7 +150,6 @@
                 ● PHP <br>
                 ● Base de données <br>
                 ● POO / MVC / Framework Symfony <br>
-                ● POO (Programmation Orientée Objet) <br>
                 ● Maintenance et développement suivant le cahier des charges d’un client <br>
             </p>
         </div>
@@ -160,12 +159,12 @@
             <p> - Réalisation d'une application de jeux de cartes sur <span class="font-weight-bold">VueJs</span><br>
                 - Développement et intégration d’un site de jeux en ligne<br>
                 sous framework W (<span class="font-weight-bold">PHP/MVC</span>)<br>
-                - Développement module de chat sous <span class="font-weight-bold">NodeJs</span></p>
+                - Développement d'un module de chat sous <span class="font-weight-bold">NodeJs</span></p>
         </div>
     </div>
     <div class="collapse mt-3 row justify-content-center opensans" id="cda">
         <div class="card card-body col-12 col-md-8">
-            <p>Formation Concepteur développeur d’applications Titre professionnel RNCP Bac+4</p>
+            <p>Formation Concepteur Développeur d’Applications Titre professionnel RNCP Bac+4</p>
             <p>Front-End:</p>
             <p>
                 ▪ HTML 5 / CSS 3<br>
@@ -182,7 +181,7 @@
             </p>
             <p>
                 - Gestion de projet : Agile, Cycle en V, Planification Gantt<br>
-                - Methode Agile (SCRUM)<br>
+                - Méthode Agile (SCRUM)<br>
             </p>
         </div>
     </div>
@@ -215,7 +214,7 @@
             <div class="nav-date">2013</div>
         </div>
         <div>
-            <h3 class="nav-title">Contigiani<br>Metallier</h3>
+            <h3 class="nav-title">Contigiani<br>Métallier</h3>
             <i class="nav-dot fas fa-dot-circle"></i>
             <div class="nav-date">2017</div>
         </div>

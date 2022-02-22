@@ -279,7 +279,7 @@
                         <div class='carousel-item active'>
                             <img class='img-size d-flex m-auto' src='assets/img/home/portfolio/card-game/1.jpg' alt='card-game slide 1' />
                             <div class="row text-center">
-                                <p class="col-12 m-0">Création d'un site de carte en ligne!</p>
+                                <p class="col-12 m-0">Création d'un site de jeux de cartes en ligne!</p>
                                 <!-- <a  href="#" class="detail col-12 "data-toggle="collapse" data-target="#card-game1">Plus de détails ...</a> -->
                             </div>
                             <div class="collapse mt-3 row justify-content-center opensans" id="card-game1">

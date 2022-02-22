@@ -3,7 +3,7 @@
     <a id="anchor" href="#top" class="smooth-scroll"><i class="fas fa-angle-double-up"></i></a>
     <div class="row justify-content-between ml-0 mr-0 mt-2">
         <div class="pl-3">
-            <p>© 2022 par Moneger Quentin</p>
+            <p>© 2022 par Quentin Moneger</p>
         </div>
         <div class="pr-3">
             <a href="https://github.com/quentinmoneger/" target="_blank"><i class="fab fa-github fa-2x"></i></a>
